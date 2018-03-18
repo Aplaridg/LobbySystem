@@ -1,0 +1,6 @@
+name: LobbySystem
+author: Aplaridg
+version: 1.0
+main: de.simon.main.Main
+
+commands:

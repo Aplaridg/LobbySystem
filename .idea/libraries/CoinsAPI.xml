@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="CoinsAPI">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/Minetec/APIs/CoinsAPI.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Minetec/APIs/TitleAPI-1.7.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
